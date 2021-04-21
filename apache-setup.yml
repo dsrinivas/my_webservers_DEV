@@ -5,7 +5,7 @@
   vars:
     httpd_packages:
       - httpd
-      - mod_wsgi
+        #- mod_wsgi
     apache_test_message: This is a test message
     apache_max_keep_alive_requests: 115
 
